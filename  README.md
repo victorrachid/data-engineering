@@ -1,0 +1,3 @@
+# Data Engineering Library
+
+A collection of Python libraries, frameworks, and tools for data engineering tasks. This repository provides a set of reusable components and best practices to streamline the development of data pipelines, ETL processes, data transformations, and more. Whether you're working with batch processing or real-time streaming data, this library aims to simplify and accelerate your data engineering workflows. Explore the various modules, examples, and documentation to get started with building robust and scalable data solutions.
